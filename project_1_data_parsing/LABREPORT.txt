@@ -1,0 +1,18 @@
+# LABREPORT.txt
+# CS181 Project 1 - Requirement 2
+# Data Parsing
+# Author/copyright: Namu Lee Kim & John Yoon. All rights reserved.
+# Date: 26 February 2024
+
+# 21 February 2024
+- First meeting, we decided who will attempt the DoL and who will attempt the LoL.
+  Kim chose LoL and Yoon chose DoL. Agreed to meet again after trying on our own.
+  Planned using repl.it as collaboration tool.
+
+# 23 February 2024
+- After working on the functions separately, we met together to look over them to
+  catch errors and make modifications. The DoL function needed more work so we
+  collaborated to finish the DoL and finalized all the functions. 
+
+# 26 February 2024
+- Compiled all of our code into one main.py file. Wrote README.txt and LABREPORT.txt.
