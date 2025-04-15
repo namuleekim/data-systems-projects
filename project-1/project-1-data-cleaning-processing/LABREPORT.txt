@@ -1,0 +1,28 @@
+# LABREPORT.txt
+# CS181 Project 1 - Requirement 3
+# Data Cleaning and Processing
+# Author/copyright: Namu Lee Kim & John Yoon. All rights reserved.
+# Date: 8 March 2024
+
+# 1 March 2024
+- First meeting, we looked over our central question to get a final picture and
+  plan of how to use the datasets we have collected to answer the central question.
+  We then looked over each of the datasets to see if the dataset was needed to 
+  help us answer the central question. During this process, we decided that the
+  Youth_Tobacco_Survey_YTS_Data.csv was not necessary. We figured that this dataset
+  which contained the survey results regarding the exposure of teens to tobacco,
+  did not help figure out the reason of death in certain states in America.
+
+
+# 7 March 2024
+- During our second meeting, we looked at the drug and state_crime datasets and
+  chose the columns that may be helpful in answering the question. During this
+  process, we dicided to use the data in the state of California and Texas, since
+  these states showed relatively high population. We each spent time to work on 
+  the function to filter the data.
+
+# 8 March 2024
+- We also worked on the function to filer and clean our data so that we only
+  have the data regarding the relevant columns we have chosen during the second
+  meeting. We finalized all of our code and connected back to our central question.
+  Wrote README.txt and LABREPORT.txt.
