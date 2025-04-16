@@ -1,0 +1,25 @@
+# LABREPORT.txt
+# CS181 Project 2 - Requirement 3
+# Data Cleaning and Processing
+# Author/copyright: Namu Lee Kim & John Yoon. All rights reserved.
+# Date: 24 April 2024
+
+#123456789#123456789#123456789#123456789#123456789#123456789#123456789#123456789
+
+# 21 April 2024
+- First meeting, we looked over our central question to get a final picture and
+  plan of how to use the datasets we have collected to answer the central 
+  question. We then looked over each of the datasets to see if it was appropriate
+  in our project. Therefore, we narrowed down to 4 datasets to create database
+  from.
+
+# 23 April 2024
+- After choosing which datasets to work with, we looked at each data and 
+  determined which columns were needed and which were not based on the 
+  information each column provided. We then spent time constructing functions
+  that only contained the information that was necessary.
+
+# 24 April 2024
+- We continued on working on functions to filter and clean our data. We finalized
+  our functions and fixed some errors that popped up in the process. We also wrote
+  README.txt and LABREPORT.txt.

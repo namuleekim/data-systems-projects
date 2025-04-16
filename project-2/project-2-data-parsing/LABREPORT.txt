@@ -1,0 +1,25 @@
+# LABREPORT.txt
+# CS181 Project 2 - Requirement 2
+# Data Parsing
+# Author/copyright: Namu Lee Kim & John Yoon. All rights reserved.
+# Date: 16 April 2024
+
+#123456789#123456789#123456789#123456789#123456789#123456789#123456789#123456789
+
+# 11 April 2024
+- First meeting, we discussed what data we should use as csv, xml, or json.
+  We also spent some time looking over the data we have found and removed/added
+  some data that we needed for the project. After that we started coding the 
+  functions needed to read the data and construct a pandas DataFrame.
+
+# 14 April 2024
+- We spent some time separately working on the functions and met again to look
+  over them. In this process, we had some issue constructing a pandas dataframe 
+  from our json file. We made changes to our "json_to_dataframe" function to
+  fix this issue. We also took care of some general errors when compiling
+  and made modifications accordingly.
+
+# 16 April 2024
+- We took a final look at the entire project and made our code executable. "json
+_to_dataframe" function was completed. We also spent time writing the README.txt
+and LABREPORT.txt.
